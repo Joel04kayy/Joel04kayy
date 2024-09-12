@@ -2,6 +2,7 @@
 Welcome To My GitHub Account! This is where I showcase some of my projects. I also build Computers and Setups for people as a side hustle. If you are interested or have any questions, feel free to send me an email: 
 
 Joel04kayy@gmail.com
+
 jkayyala@uoguelph.ca
 
 ## What I Use To Code
