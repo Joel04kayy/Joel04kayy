@@ -7,12 +7,6 @@ jkayyala@uoguelph.ca
 
 ## What I Use To Code
 
-
-![c]([https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg))
-![c#]()
-![c++]()
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
