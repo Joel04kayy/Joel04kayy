@@ -1,5 +1,5 @@
 ### Hi there, I'm Joel 👋
-Welcome To My GitHub Account! This is where I showcase some of my projects. I also build Computers and Setups for people on the side hustle. If you are interested or have any questions, feel free to send me an email: 
+Welcome To My GitHub Account! This is where I showcase some of my projects. I also build Computers and Setups for people on the side. If you are interested or have any questions, feel free to send me an email: 
 
 Joel04kayy@gmail.com
 
